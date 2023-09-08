@@ -11,7 +11,7 @@
 <hr>
 
 📧 Email: wailbouhadda31@gmail.com
-🌐 LinkedIn: linkedin.com/in/wailbouhadda
+🌐 LinkedIn: www.linkedin.com/in/wailbouhadda
 
 Happy coding! 🚀
 
