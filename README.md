@@ -2,11 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Wail+Bouhadda!;" />
 </h1>
 
-<h3 align="center">A passionate data science student</h3>
+<h3 align="center">A Passionate Data Science Student</h3>
 
 <br/>
 
-<div align="center">
+![color picker](https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+
+<br/><br/>
+
+
+<div align="left">
  
 🎓 Currently pursuing my data science journey, I'm enthusiastic about extracting insights from data, and exploring the world of AI. 
  
@@ -37,12 +42,16 @@
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>⚡ My Contributions ⚡</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/WailBouhadda/WailBouhadda/output/github-contribution-grid-snake.svg" />
-  
+
   <br/><br/><br/>
 </div>
 
 
-Happy coding! 🚀
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect!;I'm+always+down+to+collab+:)">
+</h3>
