@@ -4,12 +4,7 @@
 
 <h3 align="center">A Passionate Data Science Student</h3>
 
-<br/>
-
-![color picker](https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
-
 <br/><br/>
-
 
 <div align="left">
  
