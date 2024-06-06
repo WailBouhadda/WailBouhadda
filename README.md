@@ -26,12 +26,6 @@
 <br>
 
 <div align="left">
- 
-🎓 Currently pursuing my data science journey, I'm enthusiastic about extracting insights from data, and exploring the world of AI. On a quest to learn, innovate, and collaborate. 
- 
-💻 Beyond the world of data, I'm also a skilled video editor with a thriving YouTube channel, where I share my creative projects. Additionally, you can explore my visual vector art and photoshop skills on my Instagram.
-
-⚡ You'll find my repositories filled with data analysis projects, machine learning experiments, and also web development projects. 
 
 🌟 Let's connect and learn together! Feel free to reach out for collaboration or data-related discussions.
 
